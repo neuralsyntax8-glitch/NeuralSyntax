@@ -41,7 +41,7 @@ export default function Footer() {
               Reading-style tutorials designed for everyone. No fluff, just pure engineering thinking.
             </p>
             <div className="mt-6 flex gap-4">
-              <Link href="https://youtube.com/@neural-syntax" target="_blank" className="text-text-muted hover:text-cyan transition-colors" aria-label="YouTube">
+              <Link href="https://www.youtube.com/@NeuralSyntax-official" target="_blank" className="text-text-muted hover:text-cyan transition-colors" aria-label="YouTube">
                 <YouTubeIcon size={20} />
               </Link>
               <Link href="https://github.com/neural-syntax" target="_blank" className="text-text-muted hover:text-cyan transition-colors" aria-label="GitHub">

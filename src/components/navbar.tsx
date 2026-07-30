@@ -53,7 +53,7 @@ export default function Navbar() {
         </div>
 
         <div className="hidden md:block">
-          <Link href="https://youtube.com/@neural-syntax" target="_blank">
+          <Link href="https://www.youtube.com/@NeuralSyntax-official" target="_blank">
             <Button variant="primary" size="sm">
               Subscribe
             </Button>
@@ -97,7 +97,7 @@ export default function Navbar() {
                 {l.label}
               </Link>
             ))}
-            <Link href="https://youtube.com/@neural-syntax" target="_blank" className="mt-4">
+            <Link href="https://www.youtube.com/@NeuralSyntax-official" target="_blank" className="mt-4">
               <Button variant="primary" size="lg">
                 Subscribe
               </Button>

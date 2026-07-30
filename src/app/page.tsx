@@ -149,7 +149,7 @@ export default function Home() {
               Join thousands of students learning engineering thinking the right way.
             </p>
             <div className="mt-8 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
-              <Link href="https://youtube.com/@neural-syntax" target="_blank">
+              <Link href="https://www.youtube.com/@NeuralSyntax-official" target="_blank">
                 <Button variant="primary" size="lg">
                   Subscribe on YouTube <ArrowRight size={18} />
                 </Button>
